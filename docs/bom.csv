@@ -1,0 +1,5 @@
+*Reference,*Manufacturer Part number,*QTY,*Original,Description,Purchase Link
+U1,PCA9617ADPJ,1,Y,,https://www.digikey.jp/ja/products/detail/nxp-usa-inc/PCA9617ADPJ/3991854
+R1,,1,N,10K 0402,
+C1,,1,N,0.1uf 0402 more or eq 6V,
+"J1,J2",,2,N,Grove connector horizontal THT,https://www.seeedstudio.com/Grove-Universal-4-pin-connector-90-10-PCs.html
